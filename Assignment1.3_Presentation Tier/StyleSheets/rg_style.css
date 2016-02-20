@@ -1,0 +1,104 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(login_01.gif);
+	background-repeat: repeat;
+}
+
+input {
+	background-image: url(input.gif);
+	background-repeat: repeat-x;
+	height: 16px;
+	border: 1px solid #cccccc;
+	width: 140px;
+}
+
+.main {
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	width: 1024px;
+}
+
+.content {
+	background-image: url(login_02.png);
+	background-repeat: no-repeat;
+	height: 343px;
+	width: 330px;
+	z-index: 10;
+	margin-left: 300px;
+	position: absolute;
+	margin-top: -29px;
+	padding-top: 30px;
+	font-size: 12px;
+	font-weight: normal;
+	color: #990000;
+}
+
+.dl {
+	font-size: 13px;
+	font-weight: bold;
+	color: #800080;
+}
+
+.ts { /*border:1px dashed #92ccf5;*/
+	width: 280px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 5px;
+	color: #000000;
+	line-height: 20px;
+}
+
+.login {
+	height: 100px;
+	width: 100px;
+}
+
+.head {
+	background-image: url(title.png);
+	background-repeat: no-repeat;
+	height: 108px;
+	width: auto;
+}
+
+/*.center {
+	background-image: url(login_05.gif);
+	background-repeat: repeat;
+	height: 286px;
+	width: 1024px;
+}*/
+
+.bottom {
+	font-size: 12px;
+	font-weight: bold;
+	color: #01669a;
+	height: auto;
+	width: 600px;
+	margin-top: 20px;
+	float: left;
+	margin-left: 15px;
+	line-height: 18px;
+}
+
+.bottd {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #5687BE;
+}
+
+/*.lcenter {
+	background-image: url(login_11.png);
+	background-repeat: no-repeat;
+	height: 286px;
+	width: 973px;
+}*/
+
+.STYLE1 {
+	color: #D82C27
+}
